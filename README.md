@@ -2,7 +2,7 @@
 
 ## Instrucciones
 
-Construir un a aplicación que consuma 5 productos de cada uno de los siguientes endpoints:
+Construir un a aplicación en Go que consuma 5 productos de cada uno de los siguientes endpoints:
 
 - Café: [https://random-data-api.com/api/coffee/random_coffee?size=5](https://random-data-api.com/api/coffee/random_coffee?size=5)
 - Cerveza: [https://random-data-api.com/api/beer/random_beer?size=5](https://random-data-api.com/api/beer/random_beer?size=5)
